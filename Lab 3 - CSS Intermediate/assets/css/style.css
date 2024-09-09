@@ -1,0 +1,61 @@
+@font-face {
+    font-family: black;
+    src: url('fonts/Poppins-Black.ttf');
+}
+
+.paragraph{
+    background-color:DodgerBlue;
+    color: white;
+    margin: 5%;
+    font-family: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: justify;
+    border: 4px solid tomato;
+    opacity: 0.9;
+
+}
+
+.paragraph1{
+    background-color:DodgerBlue;
+    color: white;
+    margin: 5%;
+    padding: 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border: 4px solid tomato;
+    opacity: 0.9;
+
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    text-transform: uppercase;
+}
+
+/* .about{ */
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 30px;
+    margin: 30px; */
+
+    /* border-bottom: 6px solid red; */
+    /* background-image : url('../images/isometric-laptop.jpg');
+    width:30%;
+    background-repeat: repeat-x; */
+    /* background-color: rgb(173, 110, 255); */
+/* } */
+.btn-primary{
+    background-color: tomato;
+    color: white;
+    border: none;
+    margin-left: 40px;
+    padding: 50px;
+    width: 500px;
+    height: 200px;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
