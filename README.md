@@ -44,15 +44,56 @@ In this repository you can find the following course modules:
 
 
 ## CSS3 (Lab 02, 03, 04)
-* CSS Basics (Lab 03)
-* CSS Intermediate (Lab 04)
-* CSS Advanced (Lab 05 & Lab 06)
+* CSS Syntax and Selectors
+* Box Model
+* Units and Values
+* Colors
+* Typography
+* Backgrounds
+* Borders
+* Margins and Padding
+* Display
+* Positioning
+* Flexbox
+* Grid
+* Pseudo-classes and Pseudo-elements
+* Transitions
+* Animations
+* Transformations
+* Media Queries
+* Responsive Design
+* Variables (Custom Properties)
+* Z-Index and Stacking Context
+* Filters
+* Combinators
+* Shadows (Box and Text)
+* Text Effects
+* Lists
+* Tables
+* Flexbox vs Grid (Comparison)
+* Custom Fonts (Web Fonts)
+* Object-fit and Object-position
+* Writing Modes
+* Multi-column Layout
+* Scroll Snap
+* Gradients (Linear, Radial)
+* Transitions vs Animations
 
 
 ## Sass: Syntactically Awesome Style Sheets (Lab 05)
-* Saas Basics (Lab 07)
-* Saas Intermediate (Lab 08)
-* Saas Advanced (Lab 09)
+* Variables
+* Nesting
+* Partials and @import
+* Mixins
+* Extend/Inheritance
+* Interpolation (#{})
+* Functions
+* Operators and Math
+* Control Directives: @for, @each, @while, @if
+* Maps
+* Lists
+* Color Manipulation Functions
+
 
 
 ## Bootstrap 5
