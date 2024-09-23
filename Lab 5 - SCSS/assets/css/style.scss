@@ -1,0 +1,89 @@
+@import "variables";
+// $default-heading-font-size: 30px;
+// $default-paragraph-font-size: 20px;
+// $default-heading-bg: teal;
+// $default-heading-text-color: white;
+// $text-transform-upper: uppercase;
+// $text-transform-lower: lowercase;
+// $default-padding: 30px;
+
+@mixin border-radius(){
+  border-radius: 20px;
+}
+
+@mixin box-shadow($top, $left, $blur, $color){
+  box-shadow: $top, $left, $blur, $color;
+}
+
+@mixin border-radius-value($value){
+  border-radius: $value;
+}
+
+@mixin border-radius($value){
+  -webkit-border-radius:$value;
+  -moz-border-radius:$value;
+  border-radius: $value;
+}
+
+
+
+.container {
+  height: 400px;
+  width: 100%;
+  @include border-radius(20px);
+  background-color: #ff9494;
+}
+
+.heading {
+  @include border-radius-value(50px);
+  text-transform: $text-transform-upper;
+  padding: $default-padding;
+  color: $default-heading-text-color;
+  background-color: $default-heading-bg;
+  font-size: $default-heading-font-size;
+  @include box-shadow(32px, 35px, 10px, black);
+}
+
+
+.paragraph{
+  font-size: $default-paragraph-font-size;
+  background-color: $primary-bg-color;
+  padding: $default-padding;
+
+}
+
+.relative{
+  width: 100px;
+  height: 100px;
+  background-color: $relative-bg-color;
+  position: relative;
+  top: $default-top-position;
+  left: $default-left-position;
+}
+.absolute{
+  width: 100px;
+  height: 100px;
+  background-color: $relative-bg-color;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.fixed{
+  width: 100px;
+  height: 100px;
+  background-color: $relative-bg-color;
+  position: fixed;
+  top: $default-top-position;;
+  left: $default-left-position;;
+}
+.sticky{
+  width: 100px;
+  height: 100px;
+  background-color: $relative-bg-color;
+  position: sticky;
+  top: $default-top-position;;
+  left: $default-left-position;;
+}
+
+@import "navbar";
