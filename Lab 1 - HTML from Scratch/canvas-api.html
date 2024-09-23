@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>Canvas API</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon/site.webmanifest">
+    </head>
+
+    <body>
+        <br>
+        <br>
+        <canvas id="myCanvas" width="500" height="300" style="border:1px solid #000;"></canvas>
+        <script>
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+
+            // Draw Rectangle
+            ctx.fillStyle = "#FF0000";
+            ctx.fillRect(50, 50, 150, 100);
+
+            // Draw Circle
+            ctx.beginPath();
+            ctx.arc(300, 100, 50, 0, 2 * Math.PI);
+            ctx.fillStyle = "#00FF00";
+            ctx.fill();
+
+            // Draw Line
+            ctx.beginPath();
+            ctx.moveTo(50, 200);
+            ctx.lineTo(400, 200);
+            ctx.strokeStyle = "#0000FF";
+            ctx.lineWidth = 5;
+            ctx.stroke();
+
+            // Draw Text
+            ctx.font = "30px Arial";
+            ctx.fillStyle = "black";
+            ctx.fillText("Canvas API Example", 100, 250);
+        </script>
+    </body>
+
+</html>
