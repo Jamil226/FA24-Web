@@ -1,0 +1,7 @@
+$color-name: "blue";
+$color-value: #3498db;
+
+.my-#{$color-name}-button {
+  background-color: $color-value;
+  color: white;
+}

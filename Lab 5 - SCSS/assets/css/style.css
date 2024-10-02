@@ -1,65 +1,111 @@
-/*
-Error: Undefined variable: "$primary-bg-color".
-        on line 50 of /Users/jamil.226/Desktop/Jamil/Development/WebDev/FA24-Web/Lab 5 - SCSS/assets/css/style.scss
+.container {
+  height: 600px;
+  width: 100%;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  background-color: #ff9494; }
 
-45: }
-46: 
-47: 
-48: .paragraph{
-49:   font-size: $default-paragraph-font-size;
-50:   background-color: $primary-bg-color;
-51:   padding: $default-padding;
-52: 
-53: }
-54: 
-55: .relative{
+.heading {
+  border-radius: 50px;
+  text-transform: uppercase;
+  padding: 30px;
+  color: white;
+  background-color: teal;
+  font-size: 30px;
+  box-shadow: 32px, 35px, 10px, black; }
 
-Backtrace:
-/Users/jamil.226/Desktop/Jamil/Development/WebDev/FA24-Web/Lab 5 - SCSS/assets/css/style.scss:50
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/script/tree/variable.rb:49:in `_perform'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/script/tree/node.rb:50:in `perform'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:402:in `visit_prop'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:79:in `block in with_base'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:135:in `with_frame'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:79:in `with_base'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:162:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:444:in `block (2 levels) in visit_rule'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:444:in `map'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:444:in `block in visit_rule'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:442:in `visit_rule'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:79:in `block in with_base'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:135:in `with_frame'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/stack.rb:79:in `with_base'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:162:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:52:in `map'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:171:in `block in visit_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:170:in `visit_children'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:190:in `visit_root'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:161:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:10:in `visit'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/root_node.rb:36:in `css_tree'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/engine.rb:389:in `_render_with_sourcemap'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/engine.rb:307:in `render_with_sourcemap'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/exec/sass_scss.rb:391:in `run'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/exec/sass_scss.rb:63:in `process_result'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/exec/base.rb:52:in `parse'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/exec/base.rb:19:in `parse!'
-/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/bin/sass:13:in `<top (required)>'
-/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:22:in `load'
-/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:22:in `<main>'
-*/
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Undefined variable: \"$primary-bg-color\".\A         on line 50 of /Users/jamil.226/Desktop/Jamil/Development/WebDev/FA24-Web/Lab 5 - SCSS/assets/css/style.scss\A \A 45: }\A 46: \A 47: \A 48: .paragraph{\A 49:   font-size: $default-paragraph-font-size;\A 50:   background-color: $primary-bg-color;\A 51:   padding: $default-padding;\A 52: \A 53: }\A 54: \A 55: .relative{"; }
+.heading2 {
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 30px;
+  margin-top: 30px;
+  color: white;
+  background-color: teal;
+  font-size: 30px;
+  box-shadow: 32px, 35px, 10px, black; }
+
+.paragraph {
+  font-size: 20px;
+  background-color: tomato;
+  padding: 30px; }
+
+.container1 {
+  height: 600px;
+  width: 100%;
+  color: #462cb4;
+  font-size: 50px;
+  padding: 30px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  background-color: #c1c1c1; }
+
+@media screen and (max-width: 1500px) {
+  .container {
+    color: red;
+    background-color: teal;
+    padding: 30px;
+    margin: 10px; } }
+@media screen and (max-width: 1000px) {
+  .container {
+    color: green;
+    background-color: teal;
+    padding: 30px;
+    margin: 10px; } }
+.heading4 {
+  color: red; }
+
+.relative {
+  width: 100px;
+  height: 100px;
+  background-color: #c1c1c1;
+  position: relative;
+  top: 30px;
+  left: 30px; }
+
+.absolute {
+  width: 100px;
+  height: 100px;
+  background-color: #c1c1c1;
+  position: absolute;
+  top: 0px;
+  left: 0px; }
+
+.fixed {
+  width: 100px;
+  height: 100px;
+  background-color: #c1c1c1;
+  position: fixed;
+  top: 30px;
+  left: 30px; }
+
+.sticky {
+  width: 100px;
+  height: 100px;
+  background-color: #c1c1c1;
+  position: sticky;
+  top: 30px;
+  left: 30px; }
+
+ul {
+  display: flex;
+  width: 100%;
+  background-color: #3f0f69;
+  justify-content: center; }
+  ul li {
+    margin: 20px;
+    list-style: none; }
+    ul li a {
+      text-transform: uppercase;
+      color: white;
+      text-decoration: none;
+      font-family: poppins_regular; }
+    ul li a:hover {
+      text-transform: uppercase;
+      cursor: pointer;
+      color: #c1c1c1;
+      text-decoration: none;
+      font-family: poppins_regular; }
+
+/*# sourceMappingURL=style.css.map */

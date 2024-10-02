@@ -1,11 +1,17 @@
 @import "variables";
-// $default-heading-font-size: 30px;
-// $default-paragraph-font-size: 20px;
-// $default-heading-bg: teal;
-// $default-heading-text-color: white;
-// $text-transform-upper: uppercase;
-// $text-transform-lower: lowercase;
-// $default-padding: 30px;
+// @import "buil-in-functions";
+@import "string-interpolation";
+$default-heading-font-size: 30px;
+$default-paragraph-font-size: 20px;
+$default-heading-bg: teal;
+$default-heading-text-color: white;
+$text-transform-upper: uppercase;
+$text-transform-lower: lowercase;
+$default-padding: 30px;
+$base-color: #5d42d1;
+
+$heading-four-padding:10px;
+
 
 @mixin border-radius(){
   border-radius: 20px;
@@ -26,9 +32,8 @@
 }
 
 
-
 .container {
-  height: 400px;
+  height: 600px;
   width: 100%;
   @include border-radius(20px);
   background-color: #ff9494;
@@ -44,6 +49,24 @@
   @include box-shadow(32px, 35px, 10px, black);
 }
 
+.heading2 {
+  @include border-radius-value(10px);
+  text-transform: $text-transform-upper;
+  padding: $default-padding;
+  margin-top: 30px;
+  color: $default-heading-text-color;
+  background-color: $default-heading-bg;
+  font-size: $default-heading-font-size;
+  @include box-shadow(32px, 35px, 10px, black);
+}
+
+// $color-name: "blue";
+// $color-value: #3498db;
+
+// .my-#{$color-name}-button {
+//   background-color: $color-value;
+//   color: white;
+// }
 
 .paragraph{
   font-size: $default-paragraph-font-size;
@@ -51,6 +74,88 @@
   padding: $default-padding;
 
 }
+
+// .str-functions{
+  // font-family: quote(Arial);
+  // font-family: to-upper-case(Arial);
+  // font-family: to-lower-case(Arial);
+  // font-family: str-length(Arial);
+  // font-family: unique-id();
+  // font-family: str-index("Helvetica HNeue", "H");
+  // font-family: str-insert("Helvetica Neue", " Mono", 15);
+  // font-family: str-slice("Helvetica Neue", 11);
+// }
+
+.container1{
+  height: 600px;
+  width: 100%;
+  color: darken($base-color, 10);
+  font-size: 50px;
+  padding: $default-padding;
+  @include border-radius(20px);
+  background-color: #c1c1c1;
+}
+
+@media screen and (max-width:1500px) {
+  .container{
+      color: red;
+      background-color: $default-heading-bg;
+      padding: $default-padding;
+      margin: 10px;
+  }
+  
+}
+
+@media screen and (max-width:1000px) {
+  .container{
+    color: green;
+    background-color: $default-heading-bg;
+    padding: $default-padding;
+    margin: 10px;
+  }
+  
+}
+
+.heading4{
+    @if($heading-four-padding < 30){ color: red; }
+    @else if($heading-four-padding == 30){ color: teal; }
+    @else if($heading-four-padding > 30 and $heading-four-padding < 70){ color: orange; }
+    @else{color: black;}
+}
+
+// For with to
+
+// $i:1;
+// @for $i from 1 to 10 {
+//     .list-#{$i}{
+//         width: 100px * $i;
+//     }
+    
+// }
+
+// For with through
+
+
+// $i:1;
+// @for $i from 1 through 10 {
+//     .list-#{$i}{
+//         width: 100px * $i;
+//     }
+    
+// }
+
+
+// .heading1{
+//   font-family: to-upper-case(Arial);
+// }
+// .color-functions{
+  // color: darken($base-color, 40);
+  // color: lighten($base-color, 20);
+  // color: adjust-heu($base-color, 20);
+  // color: adjust-sature($base-color, 20);
+  // color: adjust-desature($base-color, 20);
+  // color: mix($base-color, blue);
+// }
 
 .relative{
   width: 100px;
@@ -87,3 +192,6 @@
 }
 
 @import "navbar";
+
+
+
