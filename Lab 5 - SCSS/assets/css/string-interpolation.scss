@@ -1,7 +1,20 @@
-$color-name: "blue";
-$color-value: #3498db;
+// $color-name: "blue";
+// $color-value: #3498db;
 
-.my-#{$color-name}-button {
-  background-color: $color-value;
-  color: white;
+// .my-#{$color-name}-button {
+//   background-color: $color-value;
+//   color: white;
+// }
+
+@mixin margin($position, $value){
+  margin-#{$position}: $value + px;
+}
+.test{
+  @include margin(left, 50)
+}
+.test1{
+  @include margin(top, 20)
+}
+.test2{
+  @include margin(right, 50)
 }
