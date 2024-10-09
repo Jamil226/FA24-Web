@@ -10,6 +10,8 @@ $text-transform-lower: lowercase;
 $default-padding: 30px;
 $base-color: #5d42d1;
 
+$sir_imran_color:#c1c1c1;
+
 $heading-four-padding:10px;
 
 
@@ -47,6 +49,10 @@ $heading-four-padding:10px;
   background-color: $default-heading-bg;
   font-size: $default-heading-font-size;
   @include box-shadow(32px, 35px, 10px, black);
+}
+
+.sir{
+  color: $sir_imran_color;
 }
 
 .heading2 {
@@ -126,6 +132,7 @@ $heading-four-padding:10px;
 // For with to
 
 // $i:1;
+
 // @for $i from 1 to 10 {
 //     .list-#{$i}{
 //         width: 100px * $i;

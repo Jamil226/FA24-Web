@@ -24,6 +24,9 @@
   font-size: 30px;
   box-shadow: 32px, 35px, 10px, black; }
 
+.sir {
+  color: #c1c1c1; }
+
 .heading2 {
   border-radius: 10px;
   text-transform: uppercase;
