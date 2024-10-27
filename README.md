@@ -25,7 +25,7 @@
 
 # Web Application Development Course
 
-In this repository you can find the following course modules:
+In this repository, you can find the following course modules:
 
 ## HTML5 (Lab 01)
 
@@ -94,51 +94,6 @@ In this repository you can find the following course modules:
 * Lists
 * Color Manipulation Functions
 
-
-
-## Bootstrap 5
-* BS5 Basics (Lab 10)
-* Saas Advanced (Lab 11)
-
-
-## Javascript
-* JS Basics (Lab 12)
-* JS Advanced (Lab 13)
-
-## JQuery & AJAX (Lab 14)
-* XML
-* AJAX
-* JQuery
-
-## Responsive Themes
-* Theme Customisation (Lab 15)
-* Making Dynamic Header Footers using PHP8 (Lab 16)
-
-
-## PHP 8 & MySQL
-* PHP Basics (Lab 17)
-* PHP & MySQL Database Connection(Lab 18)
-* Secure Login with Sessions using PHP8 & MySQL (Lab 19)
-* CRUD Operations Part I (Lab 20)
-* CRUD Operations Part II (Lab 21)
-* CRUD Operations Part II (Lab 22)
-
-## Microservices (Lab 23)
-* Synchronous API Call using REST Endpoints
-* JSON Encoding/Decoding
-* Postman Collections
-* Fetch Server Response against Http in JSON
-* Sending Data using POST/PUT Methods
-
-## Laravel 11 
-* Laravel Part I (Lab 24)
-* Laravel Part II (Lab 25)
-* Laravel Part III (Lab 26)
-* Laravel Part IV (Lab 27)
-* Laravel Part V (Lab 28)
-* Laravel Part VI (Lab 29)
-* Laravel Part VII (Lab 30)
-* Laravel Part VIII (Lab 31)
 
 ## Contributing
 
