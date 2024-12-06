@@ -150,9 +150,9 @@
                                         <div class="feature-one__icon">
                                             <span class="icon-united"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="#">Diverse Competitions</a>
+                                        <h3 class="feature-one__title"><a href="#">Spiritual Events</a>
                                         </h3>
-                                        <p class="feature-one__text">Engage in a wide range of events.</p>
+                                        <p class="feature-one__text">Hussan e Qirat, Naat & Seerah.</p>
                                     </div>
                                     <div class="feature-one__btn-box">
                                         <a href="#"><span
@@ -176,11 +176,11 @@
                                         <div class="feature-one__icon">
                                             <span class="icon-brain"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="about.html">Best Digital Ideas</a></h3>
-                                        <p class="feature-one__text">This high-level structure software</p>
+                                        <h3 class="feature-one__title"><a href="#">Cultural Events</a></h3>
+                                        <p class="feature-one__text">Debate, Drama and Muzahiya Mushaira</p>
                                     </div>
                                     <div class="feature-one__btn-box">
-                                        <a href="about.html"><span class="fas fa-arrow-circle-right"></span>More
+                                        <a href="#"><span class="fas fa-arrow-circle-right"></span>More
                                             Details</a>
                                     </div>
                                 </div>
@@ -200,11 +200,11 @@
                                         <div class="feature-one__icon">
                                             <span class="icon-connection"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="contact.html">Networking People</a></h3>
-                                        <p class="feature-one__text">This high-level structure software</p>
+                                        <h3 class="feature-one__title"><a href="#">Artistic Events</a></h3>
+                                        <p class="feature-one__text">Canvas Painting & Calligraphy</p>
                                     </div>
                                     <div class="feature-one__btn-box">
-                                        <a href="contact.html"><span class="fas fa-arrow-circle-right"></span>More
+                                        <a href="#"><span class="fas fa-arrow-circle-right"></span>More
                                             Details</a>
                                     </div>
                                 </div>
@@ -217,17 +217,16 @@
                                 </div>
                                 <div class="feature-one__img-box">
                                     <div class="feature-one__img">
-                                        <img src="assets/images/resources/feature-1-1.jpg" alt="">
+                                        <img src="assets/images/resources/feature-1-4.jpg" alt="">
                                     </div>
                                     <div class="feature-one__count"></div>
                                     <div class="feature-one__content">
                                         <div class="feature-one__icon">
                                             <span class="icon-icon-15151715"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="speaker-single.html">Confirm
-                                                Speakers</a>
+                                        <h3 class="feature-one__title"><a href="Technical Competitions">Technical Competitions</a>
                                         </h3>
-                                        <p class="feature-one__text">This high-level structure software</p>
+                                        <p class="feature-one__text">CUI Robotron, DevFest & Graphic Design</p>
                                     </div>
                                     <div class="feature-one__btn-box">
                                         <a href="speaker-single.html"><span
@@ -244,18 +243,18 @@
                                 </div>
                                 <div class="feature-one__img-box">
                                     <div class="feature-one__img">
-                                        <img src="assets/images/resources/feature-1-2.jpg" alt="">
+                                        <img src="assets/images/resources/feature-1-5.jpg" alt="">
                                     </div>
                                     <div class="feature-one__count"></div>
                                     <div class="feature-one__content">
                                         <div class="feature-one__icon">
                                             <span class="icon-brain"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="about.html">Best Digital Ideas</a></h3>
-                                        <p class="feature-one__text">This high-level structure software</p>
+                                        <h3 class="feature-one__title"><a href="#">Entrepreneurship</a></h3>
+                                        <p class="feature-one__text">Green Business Idea & Product Design</p>
                                     </div>
                                     <div class="feature-one__btn-box">
-                                        <a href="about.html"><span class="fas fa-arrow-circle-right"></span>More
+                                        <a href="#"><span class="fas fa-arrow-circle-right"></span>More
                                             Details</a>
                                     </div>
                                 </div>
@@ -268,18 +267,18 @@
                                 </div>
                                 <div class="feature-one__img-box">
                                     <div class="feature-one__img">
-                                        <img src="assets/images/resources/feature-1-3.jpg" alt="">
+                                        <img src="assets/images/resources/feature-1-6.jpg" alt="">
                                     </div>
                                     <div class="feature-one__count"></div>
                                     <div class="feature-one__content">
                                         <div class="feature-one__icon">
                                             <span class="icon-connection"></span>
                                         </div>
-                                        <h3 class="feature-one__title"><a href="contact.html">Networking People</a></h3>
-                                        <p class="feature-one__text">This high-level structure software</p>
+                                        <h3 class="feature-one__title"><a href="#">Sports</a></h3>
+                                        <p class="feature-one__text">Kabaddi, Tug of War & 1000-Meter Race</p>
                                     </div>
                                     <div class="feature-one__btn-box">
-                                        <a href="contact.html"><span class="fas fa-arrow-circle-right"></span>More
+                                        <a href="#"><span class="fas fa-arrow-circle-right"></span>More
                                             Details</a>
                                     </div>
                                 </div>
@@ -345,288 +344,201 @@
                     </div>
                 </div>
             </section>
-            <!--About One End--> <!--Team One Start-->
-            <section class="team-one">
-                <div class="team-one__bg-shape"></div>
-                <div class="team-one__bg-shape-2"></div>
-                <div class="team-one__bg-box">
-                    <div class="team-one__bg" style="background-image: url(assets/images/backgrounds/team-one-bg.jpg);">
-                    </div>
-                </div>
+            <section class="team-two">
+                <div class="team-two__bg" style="background-image: url(assets/images/backgrounds/team-two-bg.jpg);"></div>
                 <div class="container">
-                    <div class="section-title text-center">
-                        <div class="section-title__tagline-box">
-                            <p class="section-title__tagline"><span></span> Our team <span></span> </p>
+                    <div class="team-two__top">
+                        <div class="section-title text-left">
+                            <div class="section-title__tagline-box">
+                                <p class="section-title__tagline section-title__tagline--two">Our Team</p>
+                            </div>
+                            <h2 class="section-title__title">Feature for your <br><span>Event</span></h2>
                         </div>
-                        <h2 class="section-title__title">Feature for your <span>Event</span></h2>
+                        <p class="team-two__text">Our team comprises passionate individuals committed to making CUI SWIFT <br> an unforgettable experience. Together, we aim to create a platform that inspires <br>innovation, fosters collaboration, and celebrates talent in every form. <br> Meet the driving force behind the success of this mega event!</p>
                     </div>
                     <div class="row">
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-1.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-1.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Advisor</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Sabir Ali Shehzad</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-whatsapp"></span></a>
+                                    <a href="#"><span class="fab fa-linkedin"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Advisor</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Sabir Ali Shehzad</a></h3>
+                                    <p class="team-two__single-text">Associate Professor <br> of Mathematics</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-2.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="300ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-2.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Convener</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Minhas Akbar</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Convener</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=27261">Dr. Minhas Akbar</a></h3>
+                                    <p class="team-two__single-text">Assistant Professor <br> of Management Sciences</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-2.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="600ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-3.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. M. Waseem Sajid</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18845">Dr. M. Waseem Sajid</a></h3>
+                                    <p class="team-two__single-text">Associate Professor <br> of Bio Science</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-4.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-4.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Rahib Ali</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=30742">Dr. Rahib Ali</a></h3>
+                                    <p class="team-two__single-text">Assistant Professor <br> of Management Sciences</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-5.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-5.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Ammar Rauf</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18749">Dr. Ammar Rauf</a></h3>
+                                    <p class="team-two__single-text">Assistant Professor <br> of Mathematics</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-6.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-6.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Atif Mahmood</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=25390">Dr. Atif Mahmood</a></h3>
+                                    <p class="team-two__single-text">Lecturer of Electrical & <br> Computer Engineering</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-7.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-7.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Dr. Yawar Abbas Abid</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=30742">Dr. Yawar Abbas Abid</a></h3>
+                                    <p class="team-two__single-text">Lecturer of <br> Computer Science</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-7.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-9.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Mr. M. Salman Nawaz</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Member</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=33047">Mr. Muhammad Jamil</a></h3>
+                                    <p class="team-two__single-text">Lecturer of <br> Computer Science</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                            <div class="team-one__single">
-                                <div class="team-one__img-box">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-9.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__single-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__single-hover-shape-1">
-                                        <img src="assets/images/shapes/team-one-single-hover-shape-1.png" alt="">
-                                    </div>
-                                    <div class="team-one__share-and-social">
-                                        <div class="team-one__share">
-                                            <a href="#"><span class="fas fa-share-alt"></span></a>
-                                        </div>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="fas fa-wifi"></span></a>
-                                            <a href="#"><span class="fab fa-facebook-f"></span></a>
-                                            <a href="#"><span class="fab fa-twitter"></span></a>
-                                        </div>
-                                    </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="900ms">
+                            <div class="team-two__single">
+                                <div class="team-two__img">
+                                    <img src="assets/images/team/team-2-8.png" alt="">
                                 </div>
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Member</p>
-                                    <h3 class="team-one__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=18720">Mr. Muhammad Jamil</a></h3>
+                                <div class="team-two__social">
+                                    <a href="#"><span class="fab fa-twitter"></span></a>
+                                    <a href="#" class="team-two__social-two"><span class="fab fa-facebook-f"></span></a>
+                                    <a href="#" class="team-two__social-three"><span class="fab fa-instagram"></span></a>
+                                    <a href="#"><span class="fab fa-vimeo-v"></span></a>
+                                </div>
+                                <div class="team-two__content">
+                                    <p class="team-two__sub-title">Secretary</p>
+                                    <h3 class="team-two__title"><a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=19670">Mr. M. Salman Nawaz</a></h3>
+                                    <p class="team-two__single-text">Lecturer of <br> Mechanical Engineering</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!--Team One End--> <!--Counter One Start-->
-            <section class="counter-one">
+            <section class="sliding-text-one" style="margin-top: -100px">
+                <div class="sliding-text-one__wrap">
+                    <ul class="sliding-text__list list-unstyled marquee_mode">
+                        <li>
+                            <h2 data-hover="COMSATS SWIFT 2024 /" class="sliding-text__title">COMSATS SWIFT 2024
+                                <span>/</span>
+                            </h2>
+                        </li>
+                        <li>
+                            <h2 data-hover="Coming Soon /" class="sliding-text__title">Coming Soon
+                                <span>/</span>
+                            </h2>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section class="counter-one pb-5" style="margin-top: -75px;">
                 <div class="counter-one__wrap">
                     <div class="container">
                         <div class="counter-one__inner">
@@ -680,809 +592,52 @@
                     </div>
                 </div>
             </section>
-            <!--Counter One End--> <!--Event One Start-->
-            <section class="event-one">
-                <div class="event-one__shape-1 zoominout">
-                    <img src="assets/images/shapes/event-one-shape-1.png" alt="">
-                </div>
-                <div class="container">
-                    <div class="event-one__inner">
-                        <div class="section-title text-left">
-                            <div class="section-title__tagline-box">
-                                <p class="section-title__tagline"> Event Schedule</p>
-                            </div>
-                            <h2 class="section-title__title">Follow Our Event <br> <span>Schedule</span></h2>
-                        </div>
-                        <div class="event-one__main-tab-box tabs-box">
-                            <ul class="tab-buttons clearfix list-unstyled">
-                                <li data-tab="#1st-day" class="tab-btn active-btn">
-                                    <h3>1<span>st</span> Day</h3>
-                                    <p>February 08 , 2024</p>
-                                </li>
-                                <li data-tab="#2nd-day" class="tab-btn">
-                                    <h3>2<span>nd</span> Day</h3>
-                                    <p>February 16 , 2024</p>
-                                </li>
-                                <li data-tab="#3rd-day" class="tab-btn">
-                                    <h3>3<span>rd</span> Day</h3>
-                                    <p>February 17 , 2024</p>
-                                </li>
-                            </ul>
-                            <div class="tabs-content">
-                                <!--tab-->
-                                <div class="tab active-tab" id="1st-day">
-                                    <div class="event-one__main-content-box">
-                                        <div class="event-one__circle-one"></div>
-                                        <div class="event-one__circle-two"></div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-1.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Spiritual <br> Events</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Department of Computer Science</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>09 : 00 am - 11 : 00 am <br>
-                                                                        December 09 , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Register Now</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single event-one__main-content-single--two">
-                                            <div class="row">
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-title-and-address-box">
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Classical Music Fest <br>
-                                                                    2024</a></h4>
-                                                            <ul
-                                                                class="event-one__main-content-address-box list-unstyled">
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-pin"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>New Hyde, 11040</p>
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-time"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>08 : 00 am-05 : 00 pm <br>
-                                                                            16 March , 2024</p>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-2.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single event-one__main-content-single--two">
-                                            <div class="row">
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-title-and-address-box">
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Classical Music Fest <br>
-                                                                    2024</a></h4>
-                                                            <ul
-                                                                class="event-one__main-content-address-box list-unstyled">
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-pin"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>New Hyde, 11040</p>
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-time"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>08 : 00 am-05 : 00 pm <br>
-                                                                            16 March , 2024</p>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-2.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-3.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a href="#">Dj
-                                                                    Mixers Isolated <br>
-                                                                    Music Fest</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>New Hyde, 11040</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>08 : 00 am-05 : 00 pm <br>
-                                                                        16 March , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--tab-->
-                                <div class="tab " id="2nd-day">
-                                    <div class="event-one__main-content-box">
-                                        <div class="event-one__circle-one"></div>
-                                        <div class="event-one__circle-two"></div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-3.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Historical
-                                                                    Song & <br>
-                                                                    Music Fest</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>New Hyde, 11040</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>08 : 00 am-05 : 00 pm <br>
-                                                                        16 March , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single event-one__main-content-single--two">
-                                            <div class="row">
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-title-and-address-box">
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Classical Music Fest <br>
-                                                                    2024</a></h4>
-                                                            <ul
-                                                                class="event-one__main-content-address-box list-unstyled">
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-pin"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>New Hyde, 11040</p>
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-time"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>08 : 00 am-05 : 00 pm <br>
-                                                                            16 March , 2024</p>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-1.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-2.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a href="#">Dj
-                                                                    Mixers Isolated <br>
-                                                                    Music Fest</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>New Hyde, 11040</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>08 : 00 am-05 : 00 pm <br>
-                                                                        16 March , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--tab-->
-                                <div class="tab " id="3rd-day">
-                                    <div class="event-one__main-content-box">
-                                        <div class="event-one__circle-one"></div>
-                                        <div class="event-one__circle-two"></div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-1.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Historical
-                                                                    Song & <br>
-                                                                    Music Fest</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>New Hyde, 11040</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>08 : 00 am-05 : 00 pm <br>
-                                                                        16 March , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single event-one__main-content-single--two">
-                                            <div class="row">
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-title-and-address-box">
-                                                            <h4 class="event-one__main-content-img-title"><a
-                                                                    href="#">Classical Music Fest <br>
-                                                                    2024</a></h4>
-                                                            <ul
-                                                                class="event-one__main-content-address-box list-unstyled">
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-pin"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>New Hyde, 11040</p>
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div class="icon">
-                                                                        <span class="icon-time"></span>
-                                                                    </div>
-                                                                    <div class="text">
-                                                                        <p>08 : 00 am-05 : 00 pm <br>
-                                                                            16 March , 2024</p>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-2.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="event-one__main-content-single">
-                                            <div class="row">
-                                                <div class="col-xl-7">
-                                                    <div class="event-one__main-content-left">
-                                                        <div class="event-one__main-content-img-box">
-                                                            <div class="event-one__main-content-img">
-                                                                <img src="assets/images/resources/event-one-main-content-img-1-3.jpg"
-                                                                    alt="">
-                                                            </div>
-                                                            <h4 class="event-one__main-content-img-title"><a href="#">Dj
-                                                                    Mixers Isolated <br>
-                                                                    Music Fest</a></h4>
-                                                        </div>
-                                                        <ul class="event-one__main-content-address-box list-unstyled">
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-pin"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>New Hyde, 11040</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-time"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>08 : 00 am-05 : 00 pm <br>
-                                                                        16 March , 2024</p>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-5">
-                                                    <div class="event-one__main-content-right">
-                                                        <div class="event-one__main-content-right-shape-1">
-                                                            <img src="assets/images/shapes/event-one-main-content-right-shape-1.png"
-                                                                alt="">
-                                                        </div>
-                                                        <ul class="event-one__main-content-img-list-box list-unstyled">
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-1.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-2.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="event-one__main-content-img-list">
-                                                                    <img src="assets/images/resources/event-one-main-content-img-list-1-3.jpg"
-                                                                        alt="">
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                        <div class="event-one__main-content-btn-box">
-                                                            <a href="#" class="event-one__main-content-btn"> <span
-                                                                    class="fas fa-arrow-circle-right"></span> Buy
-                                                                Tickets</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section class="events-three events-four">
                 <div class="container">
                     <div class="section-title text-center">
                         <div class="section-title__tagline-box">
-                            <p class="section-title__tagline"><span>//</span> Schedule <span>//</span> </p>
+                            <p class="section-title__tagline">SWIFT Schedule</p>
                         </div>
-                        <h2 class="section-title__title">Information Program & Event <br> <span>Schedule</span></h2>
+                        <h2 class="section-title__title">Take a Glance at SWIFT<br> <span>Schedule</span></h2>
                     </div>
                     <div class="events-three__main-tab-box tabs-box">
                         <ul class="tab-buttons clearfix list-unstyled">
-                            <li data-tab="#1stday" class="tab-btn">
+                            <li data-tab="#1stday" class="tab-btn active-btn">
                                 <div class="events-three__tab-btn-content">
-                                    <p>November 12 , 2023</p>
+                                    <p>December 09, 2024</p>
                                     <h3>1<span>st</span>Day</h3>
                                 </div>
                             </li>
-                            <li data-tab="#2ndday" class="tab-btn active-btn">
+                            <li data-tab="#2ndday" class="tab-btn">
                                 <div class="events-three__tab-btn-content">
-                                    <p>November 15 , 2023</p>
+                                    <p>December 10, 2024</p>
                                     <h3>2<span>nd</span>Day</h3>
                                 </div>
                             </li>
                             <li data-tab="#3rdday" class="tab-btn">
                                 <div class="events-three__tab-btn-content">
-                                    <p>November 18 , 2023</p>
+                                    <p>December 11, 2024</p>
                                     <h3>3<span>rd</span>Day</h3>
                                 </div>
                             </li>
                             <li data-tab="#4thdday" class="tab-btn">
                                 <div class="events-three__tab-btn-content">
-                                    <p>November 22 , 2023</p>
+                                    <p>December 12, 2024</p>
                                     <h3>4<span>th</span>Day</h3>
                                 </div>
                             </li>
                         </ul>
                         <div class="tabs-content">
-                            <!--tab-->
-                            <div class="tab" id="1stday">
+
+                            <div class="tab active-tab" id="1stday">
                                 <div class="events-three__main-content-box">
                                     <ul class="list-unstyled events-three__content-list">
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-1.jpg"
+                                                    <img src="assets/images/resources/opening-ceremony.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
+                                                    {{-- <div class="events-three__video-link">
                                                         <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
@@ -1490,16 +645,12 @@
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-1.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">John Singh</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Organizing Committee</h4>
+                                                        <p class="events-three__content-user-sub-title">CUI SWIFT</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1507,69 +658,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Kelimontos DJ
-                                                                Party 2019</a></h4>
+                                                                href="#">Opening Ceremony</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
-                                                                </div>
-                                                            </li>
+
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Monday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 11:00 AM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-2.jpg"
+                                                    <img src="assets/images/resources/hussan-e-qirat.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-2.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Mitra Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Atif Mehmood</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1577,68 +715,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Meeting With Word</a></h4>
+                                                                href="#">Hussan-e-Qirat</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Monday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>11:15 AM – 12:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-3.jpg"
+                                                    <img src="assets/images/resources/naat-recitation.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-3.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Kowlant Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Atif Mehmood</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1646,59 +772,166 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Humble Hill Running Day</a></h4>
+                                                                href="#">Naat Recitation</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Monday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>1:15 PM – 03:00 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/canvas-painting.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Ammar Rauf</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Canvas Painting</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Auditorium - Block A</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Monday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>01:15 PM – 3:30 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
                                                     <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/prize-distribution.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Organizing Committee</h4>
+                                                        <p class="events-three__content-user-sub-title">CUI Sahiwal</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Prize Distribution</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Auditorium - Block A</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Monday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>4:00 PM – 4:30 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            <!--tab-->
-                            <!--tab-->
-                            <div class="tab active-tab" id="2ndday">
+                            <div class="tab" id="2ndday">
                                 <div class="events-three__main-content-box">
                                     <ul class="list-unstyled events-three__content-list">
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-1.jpg"
+                                                    <img src="assets/images/resources/seerat-un-nabi.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
+                                                    {{-- <div class="events-three__video-link">
                                                         <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
@@ -1706,16 +939,12 @@
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-1.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">John Singh</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Atif Mehmood</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1723,69 +952,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Kelimontos DJ
-                                                                Party 2019</a></h4>
+                                                                href="#">Seerat un-Nabi Quiz</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
-                                                                </div>
-                                                            </li>
+
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Tuesday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:30 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-2.jpg"
+                                                    <img src="assets/images/resources/code-battle.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-2.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Mitra Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Mr. Muhammad Jamil</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1793,68 +1009,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Meeting With Word</a></h4>
+                                                                href="#">CUI Code Battle</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Programming Lab, CS Dept.</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Tuesday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:30 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-3.jpg"
+                                                    <img src="assets/images/resources/calligraphy.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-3.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Kowlant Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Ammar Rauf</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1862,59 +1066,166 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="contact.html">Humble Hill Running Day</a></h4>
+                                                                href="#">Calligraphy Competition</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Drawing Hall - Block A</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Tuesday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>1:15 PM – 03:15 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/kabbadi.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Wasim Sajid</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Kabaddi Tournament</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Sports Ground</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Tuesday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>10:00 AM – 4:00 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
                                                     <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/prize-distribution.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Organizing Committee</h4>
+                                                        <p class="events-three__content-user-sub-title">CUI Sahiwal</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Prize Distribution</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Auditorium - Block A</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Tuesday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>4:00 PM – 4:30 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            <!--tab-->
-                            <!--tab-->
                             <div class="tab" id="3rdday">
                                 <div class="events-three__main-content-box">
                                     <ul class="list-unstyled events-three__content-list">
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-1.jpg"
+                                                    <img src="assets/images/resources/debate.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
+                                                    {{-- <div class="events-three__video-link">
                                                         <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
@@ -1922,16 +1233,12 @@
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-1.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">John Singh</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Mr. Salman Nawaz</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1939,25 +1246,17 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Kelimontos DJ
-                                                                Party 2019</a></h4>
+                                                                href="#">Debate Competition</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
-                                                                </div>
-                                                            </li>
+
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
@@ -1968,40 +1267,35 @@
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-2.jpg"
+                                                    <img src="assets/images/resources/green-business.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-2.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Mitra Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Rahib Ali</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2009,22 +1303,14 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Meeting With Word</a></h4>
+                                                                href="#">Green Business <br> Idea Competition</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>New Auditorium - Block D</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
@@ -2037,40 +1323,36 @@
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-3.jpg"
+                                                    <img src="assets/images/resources/tug-of-war.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-3.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Kowlant Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Wasim Sajid</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2078,22 +1360,14 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="contact.html">Humble Hill Running Day</a></h4>
+                                                                href="#">Tug of War <br> Tournament</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Main Sports Ground</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
@@ -2106,31 +1380,146 @@
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>1:15 PM – 03:15 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/robotron.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Mr. Muhammad Jamil</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">CUI Robotron</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>New Auditorium - Block D</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>1:15 PM – 3:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
                                                     <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/prize-distribution.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Organizing Committee</h4>
+                                                        <p class="events-three__content-user-sub-title">CUI Sahiwal</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Prize Distribution</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Auditorium - Block A</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>4:00 PM – 4:30 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            <!--tab-->
-                            <!--tab-->
                             <div class="tab" id="4thdday">
                                 <div class="events-three__main-content-box">
                                     <ul class="list-unstyled events-three__content-list">
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-1.jpg"
+                                                    <img src="assets/images/resources/drama.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
+                                                    {{-- <div class="events-three__video-link">
                                                         <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
@@ -2138,16 +1527,12 @@
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-1.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">John Singh</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Mr. Salman Nawaz</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2155,69 +1540,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Kelimontos DJ
-                                                                Party 2019</a></h4>
+                                                                href="#">Drama Competition</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
-                                                                </div>
-                                                            </li>
+
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Thursday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-2.jpg"
+                                                    <img src="assets/images/resources/green-business.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-2.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Mitra Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Rahib Ali</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2225,68 +1597,56 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Meeting With Word</a></h4>
+                                                                href="#">Food Product <br> Development</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>New Auditorium - Block D</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Thursday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>10:00 AM – 12:45 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
-                                                    <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li class="events-three__content-single">
                                             <div class="events-three__content-left">
                                                 <div class="events-three__content-img">
-                                                    <img src="assets/images/resources/events-three-content-img-1-3.jpg"
+                                                    <img src="assets/images/resources/tug-of-war.png"
                                                         alt="">
-                                                    <div class="events-three__video-link">
-                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=nzUOD9QJvDY"
                                                             class="video-popup">
                                                             <div class="events-three__video-icon">
                                                                 <span class="icon-play"></span>
                                                                 <i class="ripple"></i>
                                                             </div>
                                                         </a>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="events-three__content-user">
-                                                    <div class="events-three__content-user-img">
-                                                        <img src="assets/images/resources/events-three-content-user-img-1-3.jpg"
-                                                            alt="">
-                                                    </div>
                                                     <div class="events-three__content-user-info">
-                                                        <h4 class="events-three__content-user-name">Kowlant Smith</h4>
-                                                        <p class="events-three__content-user-sub-title">UX Design</p>
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Rahib Ali</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2294,72 +1654,162 @@
                                                 <div class="events-three__content-right-content">
                                                     <div class="events-three__content-right-content-left">
                                                         <h4 class="events-three__content-right-content-title"><a
-                                                                href="schedule-list.html">Humble Hill Running Day</a></h4>
+                                                                href="#">STEM Quiz</a></h4>
                                                         <ul class="list-unstyled events-three__content-right-content-list">
                                                             <li>
                                                                 <div class="icon">
-                                                                    <span class="icon-coffee-cup"></span>
+                                                                    <span class="icon-marker"></span>
                                                                 </div>
                                                                 <div class="text">
-                                                                    <p>Coffee & Snacks</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <div class="icon">
-                                                                    <span class="icon-youtube"></span>
-                                                                </div>
-                                                                <div class="text">
-                                                                    <p>Video Streming</p>
+                                                                    <p>Main Auditorium - Block A</p>
                                                                 </div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="events-three__content-right-content-right">
-                                                        <h4 class="events-three__content-right-content-title-two">Wednesday
+                                                        <h4 class="events-three__content-right-content-title-two">Thursday
                                                         </h4>
                                                         <div class="events-three__content-right-content-time">
                                                             <div class="icon">
                                                                 <span class="icon-time"></span>
                                                             </div>
                                                             <div class="text">
-                                                                <p>10.00 am - 12.00 pm</p>
+                                                                <p>1:15 PM – 03:00 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/graphic-design.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Focal Person</h4>
+                                                        <p class="events-three__content-user-sub-title">Dr. Yawar Abbas</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Graphic Design <br> Competition</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Computing Lab - CS Dept.</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Thursday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>01:15 PM – 3:00 PM</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="events-three__btn-box">
+                                                    <a href="#" class="about-three__btn thm-btn-two"><span class="fas fa-arrow-circle-right"></span>Register Now</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="events-three__content-single">
+                                            <div class="events-three__content-left">
+                                                <div class="events-three__content-img">
+                                                    <img src="assets/images/resources/prize-distribution.png"
+                                                        alt="">
+                                                    {{-- <div class="events-three__video-link">
+                                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
+                                                            class="video-popup">
+                                                            <div class="events-three__video-icon">
+                                                                <span class="icon-play"></span>
+                                                                <i class="ripple"></i>
+                                                            </div>
+                                                        </a>
+                                                    </div> --}}
+                                                </div>
+                                                <div class="events-three__content-user">
+                                                    <div class="events-three__content-user-info">
+                                                        <h4 class="events-three__content-user-name">Organizing Committee</h4>
+                                                        <p class="events-three__content-user-sub-title">CUI Sahiwal</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="events-three__content-right">
+                                                <div class="events-three__content-right-content">
+                                                    <div class="events-three__content-right-content-left">
+                                                        <h4 class="events-three__content-right-content-title"><a
+                                                                href="#">Closing Ceremony & <br> Prize Distribution</a></h4>
+                                                        <ul class="list-unstyled events-three__content-right-content-list">
+                                                            <li>
+                                                                <div class="icon">
+                                                                    <span class="icon-marker"></span>
+                                                                </div>
+                                                                <div class="text">
+                                                                    <p>Main Auditorium - Block A</p>
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="events-three__content-right-content-right">
+                                                        <h4 class="events-three__content-right-content-title-two">Thursday
+                                                        </h4>
+                                                        <div class="events-three__content-right-content-time">
+                                                            <div class="icon">
+                                                                <span class="icon-time"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>4:00 PM – 4:30 PM</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="events-three__btn-box">
                                                     <a href="contact.html" class="about-three__btn thm-btn-two"><span
-                                                            class="fas fa-arrow-circle-right"></span>Buy Ticket</a>
+                                                            class="fas fa-arrow-circle-right"></span>Register Now</a>
                                                 </div>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            <!--tab-->
+
                         </div>
                     </div>
                 </div>
             </section>
-            <!--Event One End--> <!-- Sliding Text One Start -->
 
-            <section class="sliding-text-one">
-                <div class="sliding-text-one__wrap">
-                    <ul class="sliding-text__list list-unstyled marquee_mode">
-                        <li>
-                            <h2 data-hover="COMSATS SWIFT 2024 /" class="sliding-text__title">COMSATS SWIFT 2024
-                                <span>/</span>
-                            </h2>
-                        </li>
-                        <li>
-                            <h2 data-hover="Coming Soon /" class="sliding-text__title">Coming Soon
-                                <span>/</span>
-                            </h2>
-                        </li>
-                    </ul>
-                </div>
-            </section>
-            <!-- Sliding Text One End --> <!-- Venue One Start -->
             <section class="venue-one">
                 <div class="venue-one__shape"></div>
                 <div class="venue-one__shape-2"></div>
@@ -2433,7 +1883,6 @@
                     </div>
                 </div>
             </section>
-            <!-- Venue One End --> <!--Gallery One Start-->
             <section class="gallery-one">
                 <div class="gallery-one__shape-1 zoominout">
                     <img src="assets/images/shapes/gallery-one-shape-1.png" alt="">
@@ -2446,14 +1895,13 @@
                             </div>
                             <h2 class="section-title__title">Pictures <br><span>Gallery</span></h2>
                         </div>
-                        <div class="gallery-one__btn-box">
-                            <a href="gallery.html" class="gallery-one__btn thm-btn"><span
+                        {{-- <div class="gallery-one__btn-box">
+                            <a href="{{ url('/gallery') }}" class="gallery-one__btn thm-btn"><span
                                     class="fas fa-arrow-circle-right"></span>See
                                 More Gallery</a>
-                        </div>
+                        </div> --}}
                     </div>
                     <div class="row">
-                        <!--Gallery One Single Start-->
                         <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-delay="100ms">
                             <div class="gallery-one__single">
                                 <div class="gallery-one__img-box">
@@ -2462,8 +1910,8 @@
                                     </div>
                                 </div>
                                 <div class="gallery-one__title-box">
-                                    <p><span class="icon-marker"></span>lake Buena Vista</p>
-                                    <h3><a href="gallery.html">Adrey Podshivakie</a></h3>
+                                    <p><span class="icon-marker"></span>CUI Sahiwal</p>
+                                    <h3><a href="#">38<sup>th</sup> Convocation</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -2473,12 +1921,12 @@
                             <div class="gallery-one__single gallery-one__single-2">
                                 <div class="gallery-one__img-box">
                                     <div class="gallery-one__img">
-                                        <img src="assets/images/gallery/gallery-1-1.jpg" alt="">
+                                        <img src="assets/images/gallery/gallery-1-2.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="gallery-one__title-box">
-                                    <p><span class="icon-marker"></span>lake Buena Vista</p>
-                                    <h3><a href="gallery.html">Adrey Podshivakie</a></h3>
+                                    <p><span class="icon-marker"></span>CUI Sahiwal</p>
+                                    <h3><a href="#">Seerah Conference</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -2492,8 +1940,8 @@
                                     </div>
                                 </div>
                                 <div class="gallery-one__title-box">
-                                    <p><span class="icon-marker"></span>lake Buena Vista</p>
-                                    <h3><a href="gallery.html">Adrey Podshivakie</a></h3>
+                                    <p><span class="icon-marker"></span>CUI Sahiwal</p>
+                                    <h3><a href="#">Sketching Competition</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -2507,8 +1955,8 @@
                                     </div>
                                 </div>
                                 <div class="gallery-one__title-box">
-                                    <p><span class="icon-marker"></span>lake Buena Vista</p>
-                                    <h3><a href="gallery.html">Adrey Podshivakie</a></h3>
+                                    <p><span class="icon-marker"></span>CUI Sahiwal</p>
+                                    <h3><a href="#">Plantation Week</a></h3>
                                 </div>
                             </div>
                         </div>

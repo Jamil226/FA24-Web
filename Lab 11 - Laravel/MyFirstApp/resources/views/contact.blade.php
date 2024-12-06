@@ -1,7 +1,7 @@
 @extends('layouts.main')
-@section('title', 'Home')
+@section('title', 'Contact')
 @section('main-container')
-            <!--Page Header Start-->
+            <!--Page Breadcrumb Start-->
             <section class="page-header">
                 <div class="page-header__bg"
                     style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
@@ -28,12 +28,11 @@
                     </div>
                 </div>
             </section>
-            <!--Page Header End-->
+            <!--Page Breadcrumb End-->
             <!--Quick Contact Start-->
             <section class="quick-contact">
                 <div class="container">
                     <div class="row">
-                        <!--Quick Contact Single Start-->
                         <div class="col-xl-4 col-lg-4">
                             <div class="quick-contact__single">
                                 <h4 class="quick-contact__title">Personal Visit</h4>
@@ -48,8 +47,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!--Quick Contact Single End-->
-                        <!--Quick Contact Single Start-->
                         <div class="col-xl-4 col-lg-4">
                             <div class="quick-contact__single">
                                 <h4 class="quick-contact__title">Make a Call</h4>
@@ -63,8 +60,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!--Quick Contact Single End-->
-                        <!--Quick Contact Single Start-->
                         <div class="col-xl-4 col-lg-4">
                             <div class="quick-contact__single">
                                 <h4 class="quick-contact__title">Send Email</h4>
@@ -78,13 +73,12 @@
                                 </div>
                             </div>
                         </div>
-                        <!--Quick Contact Single End-->
                     </div>
                 </div>
             </section>
             <!--Quick Contact End-->
 
-            <!--Contact Two Start-->
+            <!--Contact Start-->
             <section class="contact-two">
                 <div class="container">
                     <div class="row">
@@ -107,36 +101,64 @@
                                     <div class="contact-two__form-img">
                                         <img src="assets/images/resources/contact-two-form-img.jpg" alt="">
                                     </div>
-                                    <form class="contact-form-validated contact-two__form"
-                                        action="#"
-                                        method="post" novalidate="novalidate">
+                                    @if ($message = Session::get('success'))
+                                        <div class="alert alert-success alert-block p-4 border-left-success">
+                                            <strong>
+                                                {{ $message }}
+                                            </strong>
+                                        </div>
+                                    @endif
+                                    <form class="contact-two__form" method="post">
+                                        @csrf
                                         <div class="row">
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="contact-two__input-box">
-                                                    <input type="text" name="first_name" placeholder="First Name" required="">
+                                                    <input type="text" name="first_name" placeholder="First Name">
                                                 </div>
+                                                @if ($errors->has('first_name'))
+                                                    <span class="text-danger">
+                                                        {{ $errors->first('first_name') }}
+                                                    </span>
+                                                @endif
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="contact-two__input-box">
-                                                    <input type="text" name="last_name" placeholder="Last Name"
-                                                        required="">
+                                                    <input type="text" name="last_name" placeholder="Last Name">
                                                 </div>
+                                                @if ($errors->has('last_name'))
+                                                    <span class="text-danger">
+                                                        {{ $errors->first('last_name') }}
+                                                    </span>
+                                                @endif
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="contact-two__input-box">
-                                                    <input type="email" name="email" placeholder="Email Address"
-                                                        required="">
+                                                    <input type="email" name="email" placeholder="Email Address">
                                                 </div>
+                                                @if ($errors->has('email'))
+                                                    <span class="text-danger">
+                                                        {{ $errors->first('email') }}
+                                                    </span>
+                                                @endif
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
                                                 <div class="contact-two__input-box">
-                                                    <input type="text" name="contact_number" placeholder="Contact Number"
-                                                        required="">
+                                                    <input type="text" name="contact_number" placeholder="Contact Number">
                                                 </div>
+                                                @if ($errors->has('contact_number'))
+                                                    <span class="text-danger">
+                                                        {{ $errors->first('contact_number') }}
+                                                    </span>
+                                                @endif
                                             </div>
                                             <div class="col-xl-12">
                                                 <div class="contact-page__input-box text-message-box">
                                                     <textarea name="message" placeholder="Write Message"></textarea>
+                                                    @if ($errors->has('message'))
+                                                        <span class="text-danger">
+                                                            {{ $errors->first('message') }}
+                                                        </span>
+                                                    @endif
                                                 </div>
                                                 <div class="contact-two__btn-box">
                                                     <button type="submit" class="thm-btn contact-two__btn">Submit
