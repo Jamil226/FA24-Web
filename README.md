@@ -94,6 +94,41 @@ In this repository, you can find the following course modules:
 * Lists
 * Color Manipulation Functions
 
+## Bootstrap 5 (Lab 06)
+* **Grid System**: Containers, Rows, Columns, Breakpoints
+* **Typography**: Headings, Paragraphs, Text Utilities
+* **Components**:
+  - Buttons
+  - Breadcrumbs
+  - Collapse
+  - Forms
+  - Floating Labels
+  - Checkbox and Radio Buttons
+  - Images
+  - Jumbotrons (For BS3 Users)
+  - Cards
+  - Models
+  - Navbars
+  - Modals
+  - Alerts
+  - Badges
+  - Progress Bars
+  - Tables
+* **Utilities**:
+  - Spacing (Margin, Padding)
+  - Colors
+  - Borders
+  - Shadows
+  - Visibility
+* **Flexbox and Alignment Utilities**
+* **Responsive Design**: Media Queries, Responsive Classes
+* **Icons**: Integration with Bootstrap Icons
+* **Customizing Bootstrap**:
+  - Variables
+  - Sass
+  - Themes
+
+
 
 ## Contributing
 
