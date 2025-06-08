@@ -202,12 +202,11 @@ In this repository, you can find the following course modules:
   - JSON
 
 - **PHP Advanced**
-
-- Dynamic Header/Footer
-- Session Management
-- Database Connections Strings
-- HTTP Methods
-- Encryption
+  - Dynamic Header/Footer
+  - Session Management
+  - Database Connections Strings
+  - HTTP Methods
+  - Encryption
 
 ## Laravel Front-end (Lab 11)
 
