@@ -1,5 +1,5 @@
-let carName1 = "Volvo XC60";  
-let carName2 = 'Volvo XC60';
+let carName1 = "Volvo XC60";
+let carName2 = "Volvo XC60";
 
 // console.log(carName1);
 // console.log(carName2);
@@ -13,11 +13,10 @@ console.log(index);
 let last_index = text.lastIndexOf("locate");
 console.log(last_index);
 
-let simple_string = 'The quick brown fox jumps over the lazy dog';
+let simple_string = "The quick brown fox jumps over the lazy dog";
 console.log(simple_string);
 
-let poem_problem =
-`The quick
+let poem_problem = `The quick
 brown fox
 jumps over
 the lazy dog`;

@@ -19,9 +19,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Web App Development](https://img.shields.io/badge/Web%20App%20Development-Course-Green?labelColor=Gray&style=flat)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Web Application Development Course
 
@@ -29,75 +27,76 @@ In this repository, you can find the following course modules:
 
 ## HTML5 (Lab 01)
 
-* HTML5 Structure
-* HTML5 Semantic Elements
-* Favicons
-* Text Formatting
-* Links & Images
-* Lists
-* Tables
-* Forms with Validations & Attributes
-* Custom Data Types for Input Fields
-* iFrames
-* Audio & Video Elements
-* HTML5 Meta Elements
-
+- HTML5 Structure
+- HTML5 Semantic Elements
+- Favicons
+- Text Formatting
+- Links & Images
+- Lists
+- Tables
+- Forms with Validations & Attributes
+- Custom Data Types for Input Fields
+- iFrames
+- Audio & Video Elements
+- HTML5 Meta Elements
 
 ## CSS3 (Lab 02, 03, 04)
-* CSS Syntax and Selectors
-* Box Model
-* Units and Values
-* Colors
-* Typography
-* Backgrounds
-* Borders
-* Margins and Padding
-* Display
-* Positioning
-* Flexbox
-* Grid
-* Pseudo-classes and Pseudo-elements
-* Transitions
-* Animations
-* Transformations
-* Media Queries
-* Responsive Design
-* Variables (Custom Properties)
-* Z-Index and Stacking Context
-* Filters
-* Combinators
-* Shadows (Box and Text)
-* Text Effects
-* Lists
-* Tables
-* Flexbox vs Grid (Comparison)
-* Custom Fonts (Web Fonts)
-* Object-fit and Object-position
-* Writing Modes
-* Multi-column Layout
-* Scroll Snap
-* Gradients (Linear, Radial)
-* Transitions vs Animations
 
+- CSS Syntax and Selectors
+- Box Model
+- Units and Values
+- Colors
+- Typography
+- Backgrounds
+- Borders
+- Margins and Padding
+- Display
+- Positioning
+- Flexbox
+- Grid
+- Pseudo-classes and Pseudo-elements
+- Transitions
+- Animations
+- Transformations
+- Media Queries
+- Responsive Design
+- Variables (Custom Properties)
+- Z-Index and Stacking Context
+- Filters
+- Combinators
+- Shadows (Box and Text)
+- Text Effects
+- Lists
+- Tables
+- Flexbox vs Grid (Comparison)
+- Custom Fonts (Web Fonts)
+- Object-fit and Object-position
+- Writing Modes
+- Multi-column Layout
+- Scroll Snap
+- Gradients (Linear, Radial)
+- Transitions vs Animations
 
 ## Sass: Syntactically Awesome Style Sheets (Lab 05)
-* Variables
-* Nesting
-* Partials and @import
-* Mixins
-* Extend/Inheritance
-* Interpolation (#{})
-* Functions
-* Operators and Math
-* Control Directives: @for, @each, @while, @if
-* Maps
-* Lists
-* Color Manipulation Functions
+
+- Variables
+- Nesting
+- Partials and @import
+- Mixins
+- Extend/Inheritance
+- Interpolation (#{})
+- Functions
+- Operators and Math
+- Control Directives: @for, @each, @while, @if
+- Maps
+- Lists
+- Color Manipulation Functions
 
 ## Bootstrap 5 from Scratch (Lab 06)
-* **Grid System** -  Containers, Rows, Columns, Breakpoints
-* **Typography** - Headings, Paragraphs, Text Utilities
-* **Components**
+
+- **Grid System** - Containers, Rows, Columns, Breakpoints
+- **Typography** - Headings, Paragraphs, Text Utilities
+- **Components**
   - Buttons
   - Breadcrumbs
   - Collapse
@@ -114,21 +113,118 @@ In this repository, you can find the following course modules:
   - Badges
   - Progress Bars
   - Tables
-* **Utilities**
+- **Utilities**
   - Spacing (Margin, Padding)
   - Colors
   - Borders
   - Shadows
   - Visibility
-* **Flexbox and Alignment Utilities**
-* **Responsive Design** - Media Queries, Responsive Classes
-* **Icons** - Integration with Bootstrap Icons
-* **Customizing Bootstrap**
+- **Flexbox and Alignment Utilities**
+- **Responsive Design** - Media Queries, Responsive Classes
+- **Icons** - Integration with Bootstrap Icons
+- **Customizing Bootstrap**
   - Variables
   - Sass
   - Themes
 
+## JS Basics (Lab 07)
 
+- **DOM Manipulation**
+- **JS Linkage with HTML5**
+- **JS Fundamentals**
+  - Variables
+  - Data Types
+  - Objects
+  - String Methods
+  - Functions
+  - Loops
+
+## JS Advanced (Lab 08)
+
+- **JS Form Validation**
+- **JS Functions usage using BS5 JS Files**
+
+## React JS (Lab 09)
+
+- **JSX**
+- **Components**
+  - Functional Components
+  - Class Components (basic understanding)
+  - Component Composition
+  - Rendering Components -** Props (Properties)**
+  - Passing props to components
+  - Default Props
+  - Props vs State
+- **State Management**
+
+  - useState Hook
+  - Updating state
+  - State in multiple components
+
+- **Handling Events**
+
+  - Event binding
+  - Synthetic events in React
+  - Handling user input
+
+- **Conditional Rendering**
+
+  - Using if, else, ternary operators
+  - Short-circuit rendering with &&
+
+- **Rendering Lists**
+
+  - map() function
+  - Keys and their importance
+  - Dynamic list rendering
+
+- **Forms in React**
+  - Controlled vs Uncontrolled components
+  - onChange handlers
+  - Submitting forms
+
+## PHP Fundamentals (Lab 10)
+
+- **PHP Basics**
+
+  - echo & print()
+  - include() & require()
+  - Variables
+  - Constants
+  - Comments
+  - Basic Arithematic
+  - Functions
+  - Regex
+  - Conditional Statements
+  - Loops
+  - Arrays
+  - Numbers
+  - JSON
+
+- **PHP Advanced**
+
+- Dynamic Header/Footer
+- Session Management
+- Database Connections Strings
+- HTTP Methods
+- Encryption
+
+## Laravel Front-end (Lab 11)
+
+- **Laravel Fundamentals**
+- **Complete Laravel Fronts-end**
+
+## Laravel Backend (Lab 12)
+
+- **Laravel Backend Complete**
+
+## Laravel PWA (Lab 13)
+
+- **Laravel Complete Web App**
+
+## Laravel PWA (Lab 14)
+
+- **Laravel Web App Deployment on cPanel**
 
 ## Contributing
 
