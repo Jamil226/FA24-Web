@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Styling for the heading */
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #2c3e50;
+    background-color: #ecf0f1;
+    border: 2px solid #3498db;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styling for the paragraph */
+p {
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    color: #34495e;
+    background-color: #f9f9f9;
+    border: 1px solid #bdc3c7;
+    padding: 20px;
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+.p-normal{
+    justify-content: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: teal;
+    padding: 30px;
+    margin: 30px;
+    border: 2px solid teal;
+    border-radius: 20px;
+
+
+}

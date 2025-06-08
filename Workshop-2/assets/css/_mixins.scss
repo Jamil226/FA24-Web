@@ -1,0 +1,12 @@
+@mixin btn-warning{
+    background-color: $default-btn-warning-bg;
+    color: $color-black;
+    border: 2px solid $color-black;
+    padding: 30px;
+}
+
+@mixin btn($color, $background){
+    color: $color;
+    background-color: $background;
+
+}

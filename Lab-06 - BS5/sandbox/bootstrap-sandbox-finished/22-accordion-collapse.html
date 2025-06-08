@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | Accordion & Collapse</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Accordion & Collapse</h1>
+
+      <!-- Accordion -->
+      <div id="myaccordion" class="accordion">
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button
+              class="accordion-button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseOne"
+            >
+              Accordion 1
+            </button>
+          </h2>
+          <div
+            id="collapseOne"
+            class="accordion-collapse collapse show"
+            data-bs-parent="#myaccordion"
+          >
+            <div class="accordion-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae,
+              culpa repellendus molestias quia consequatur vel delectus sed
+              fugiat exercitationem perspiciatis praesentium quidem asperiores
+              iusto placeat saepe voluptate neque doloribus tenetur.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button
+              class="accordion-button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo"
+            >
+              Accordion 2
+            </button>
+          </h2>
+          <div
+            id="collapseTwo"
+            class="accordion-collapse collapse"
+            data-bs-parent="#myaccordion"
+          >
+            <div class="accordion-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae,
+              culpa repellendus molestias quia consequatur vel delectus sed
+              fugiat exercitationem perspiciatis praesentium quidem asperiores
+              iusto placeat saepe voluptate neque doloribus tenetur.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button
+              class="accordion-button"
+              data-bs-toggle="collapse"
+              data-bs-target="#collapseThree"
+            >
+              Accordion 3
+            </button>
+          </h2>
+          <div
+            id="collapseThree"
+            class="accordion-collapse collapse show"
+            data-bs-parent="#myaccordion"
+          >
+            <div class="accordion-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae,
+              culpa repellendus molestias quia consequatur vel delectus sed
+              fugiat exercitationem perspiciatis praesentium quidem asperiores
+              iusto placeat saepe voluptate neque doloribus tenetur.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br /><br />
+
+      <!-- Collapse -->
+      <div class="my-3">
+        <button
+          class="btn btn-primary"
+          data-bs-toggle="collapse"
+          data-bs-target="#mycontent"
+        >
+          Toggle Content
+        </button>
+      </div>
+
+      <div class="collapse" id="mycontent">
+        <div class="card">
+          <div class="card-body">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque
+            harum facilis voluptas reprehenderit dolorum! Quia, molestiae!
+            Ducimus quidem eaque nam ullam minima dolorem, blanditiis aliquam
+            cum nemo quos debitis nisi.
+          </div>
+        </div>
+      </div>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

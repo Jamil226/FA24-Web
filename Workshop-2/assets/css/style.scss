@@ -1,0 +1,49 @@
+@import 'variables';
+@import 'mixins';
+@import 'functions';
+
+body {
+    background-color: $default-bg-color;
+}
+h1{
+    color: $default-heading-color ;
+    text-align: center;
+    padding: 30px;
+    background-color: $color-white;
+}
+
+.btn-warning{
+    @include btn-warning();
+    width : btn-width(100, 1);
+
+}
+.btn-warning-lrg{
+    @include btn-warning();
+    width : btn-width(100, 2);
+}
+
+.btn{
+    @include btn($color-black, $default-btn-warning-bg);
+    border-style: none;
+    padding: 30px;
+    border-radius: 50px
+}
+
+.error {
+    color: red;
+    border: 2px solid red;
+    background-color: $color-white;
+    padding: 30px;
+}
+
+.error-critical{
+    font-weight: bold;
+    font-size: 30px;
+    @extend .error;
+}
+
+@for $i from 1 through 6{
+    .col-#{$i} {
+        width: $i + 2em;
+    }
+}

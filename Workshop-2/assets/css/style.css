@@ -1,0 +1,59 @@
+body {
+  background-color: teal; }
+
+h1 {
+  color: red;
+  text-align: center;
+  padding: 30px;
+  background-color: #ffffff; }
+
+.btn-warning {
+  background-color: orange;
+  color: #000000;
+  border: 2px solid #000000;
+  padding: 30px;
+  width: 100px; }
+
+.btn-warning-lrg {
+  background-color: orange;
+  color: #000000;
+  border: 2px solid #000000;
+  padding: 30px;
+  width: 200px; }
+
+.btn {
+  color: #000000;
+  background-color: orange;
+  border-style: none;
+  padding: 30px;
+  border-radius: 50px; }
+
+.error, .error-critical {
+  color: red;
+  border: 2px solid red;
+  background-color: #ffffff;
+  padding: 30px; }
+
+.error-critical {
+  font-weight: bold;
+  font-size: 30px; }
+
+.col-1 {
+  width: 3em; }
+
+.col-2 {
+  width: 4em; }
+
+.col-3 {
+  width: 5em; }
+
+.col-4 {
+  width: 6em; }
+
+.col-5 {
+  width: 7em; }
+
+.col-6 {
+  width: 8em; }
+
+/*# sourceMappingURL=style.css.map */

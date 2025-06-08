@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+
+    <title>Bootstrap Sandbox | Toasts</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Toasts</h1>
+
+      <button id="toastBtn" class="btn btn-primary">Show Toast</button>
+
+      <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div class="toast" id="myToast">
+          <div class="toast-header text-bg-danger">
+            <div class="me-auto">Bootstrap</div>
+            <small>11 mins ago</small>
+          </div>
+          <div class="toast-body text-bg-danger">
+            Hello World! This is a toast message!
+          </div>
+        </div>
+      </div>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      const toastTrigger = document.querySelector('#toastBtn');
+      const toast = document.querySelector('#myToast');
+
+      if (toastTrigger) {
+        const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toast);
+
+        toastTrigger.addEventListener('click', () => {
+          toastBootstrap.show();
+        });
+      }
+    </script>
+  </body>
+</html>

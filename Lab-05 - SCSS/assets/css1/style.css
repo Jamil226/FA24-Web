@@ -1,0 +1,25 @@
+h1 {
+  margin: 30px;
+  padding: 30px;
+  color: white;
+  background-color: tomato; }
+
+ul {
+  display: flex;
+  width: 100%;
+  background-color: #3f0f69;
+  justify-content: center; }
+  ul li {
+    margin: 20px;
+    list-style: none; }
+    ul li a {
+      color: white;
+      text-decoration: none;
+      font-family: poppins_regular; }
+    ul li a:hover {
+      cursor: pointer;
+      color: #c1c1c1;
+      text-decoration: none;
+      font-family: poppins_regular; }
+
+/*# sourceMappingURL=style.css.map */

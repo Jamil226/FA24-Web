@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | List Groups & Badges</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">List Groups & Badges</h1>
+
+      <!-- Simple List Group -->
+      <ul class="list-group">
+        <li class="list-group-item">Tony Stark</li>
+        <li class="list-group-item">Steve Rogers</li>
+        <li class="list-group-item active">Bruce Banner</li>
+        <li class="list-group-item">Thor Odinson</li>
+        <li class="list-group-item disabled">Rick Jones</li>
+      </ul>
+
+      <br /><br />
+
+      <!-- Links -->
+      <div class="list-group">
+        <a class="list-group-item" href="#">Tony Stark</a>
+        <a class="list-group-item" href="#">Steve Rogers</a>
+        <a class="list-group-item active" href="#">Bruce Banner</a>
+        <a class="list-group-item" href="#">Thor Odinson</a>
+        <a class="list-group-item disabled" href="#">Rick Jones</a>
+      </div>
+
+      <br /><br />
+
+      <!-- Flush Style -->
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Tony Stark</li>
+        <li class="list-group-item">Steve Rogers</li>
+        <li class="list-group-item active">Bruce Banner</li>
+        <li class="list-group-item">Thor Odinson</li>
+        <li class="list-group-item disabled">Rick Jones</li>
+      </ul>
+
+      <br /><br />
+
+      <!-- Numbered List -->
+      <ol class="list-group list-group-numbered">
+        <li class="list-group-item">Tony Stark</li>
+        <li class="list-group-item">Steve Rogers</li>
+        <li class="list-group-item active">Bruce Banner</li>
+        <li class="list-group-item">Thor Odinson</li>
+        <li class="list-group-item disabled">Rick Jones</li>
+      </ol>
+
+      <br /><br />
+
+      <!-- Badges -->
+      <h1>Example heading <span class="badge bg-primary">New</span></h1>
+      <h2>Example heading <span class="badge bg-secondary">New</span></h2>
+      <h3>Example heading <span class="badge bg-success">New</span></h3>
+      <h4>Example heading <span class="badge bg-danger">New</span></h4>
+      <h5>Example heading <span class="badge bg-warning">New</span></h5>
+      <h6>Example heading <span class="badge bg-info">New</span></h6>
+
+      <br /><br />
+
+      <!-- In Button -->
+      <button type="button" class="btn btn-primary">
+        Notifications <span class="badge text-bg-dark">New</span>
+      </button>
+
+      <br /><br />
+
+      <!-- Badges in List Group -->
+      <ul class="list-group">
+        <li
+          class="list-group-item d-flex justify-content-between align-items-start"
+        >
+          <div class="ms-2 me-auto">
+            <div class="fw-bold">Electronics</div>
+            Content for this item
+          </div>
+          <span class="badge bg-primary rounded-pill">20</span>
+        </li>
+        <li
+          class="list-group-item d-flex justify-content-between align-items-start"
+        >
+          <div class="ms-2 me-auto">
+            <div class="fw-bold">Fashion</div>
+            Content for this item
+          </div>
+          <span class="badge bg-danger rounded-pill">10</span>
+        </li>
+        <li
+          class="list-group-item d-flex justify-content-between align-items-start"
+        >
+          <div class="ms-2 me-auto">
+            <div class="fw-bold">Sports</div>
+            Content for this item
+          </div>
+          <span class="badge bg-success rounded-pill">30</span>
+        </li>
+      </ul>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

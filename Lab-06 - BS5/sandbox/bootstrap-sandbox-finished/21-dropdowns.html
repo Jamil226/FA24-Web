@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | Dropdowns</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Dropdowns</h1>
+
+      <!-- Single Button -->
+      <div class="dropdown">
+        <button
+          class="btn btn-primary dropdown-toggle"
+          data-bs-toggle="dropdown"
+        >
+          Dropdown
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#" class="dropdown-item">Item 1</a></li>
+          <li><a href="#" class="dropdown-item">Item 2</a></li>
+          <li><a href="#" class="dropdown-item">Item 3</a></li>
+        </ul>
+      </div>
+
+      <br /><br />
+
+      <!-- Split Button -->
+      <div class="btn-group">
+        <button class="btn btn-danger">Action</button>
+        <button
+          class="btn btn-danger dropdown-toggle dropdown-toggle-split"
+          data-bs-toggle="dropdown"
+        >
+          <span class="visually-hidden">Toggle Dropdown</span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#" class="dropdown-item">Item 1</a></li>
+          <li><a href="#" class="dropdown-item">Item 2</a></li>
+          <li><a href="#" class="dropdown-item">Item 3</a></li>
+        </ul>
+      </div>
+
+      <br /><br />
+
+      <!-- Dark Dropdowns -->
+      <div class="dropdown">
+        <button
+          class="btn btn-primary dropdown-toggle"
+          data-bs-toggle="dropdown"
+        >
+          Dropdown
+        </button>
+        <ul class="dropdown-menu dropdown-menu-dark">
+          <li><a href="#" class="dropdown-item">Item 1</a></li>
+          <li><a href="#" class="dropdown-item">Item 2</a></li>
+          <li><a href="#" class="dropdown-item">Item 3</a></li>
+        </ul>
+      </div>
+
+      <br /><br />
+
+      <!-- Dropup -->
+      <div class="btn-group dropup">
+        <button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown">
+          Dropup
+        </button>
+        <ul class="dropdown-menu dropdown-menu-dark">
+          <li><a href="#" class="dropdown-item">Item 1</a></li>
+          <li><a href="#" class="dropdown-item">Item 2</a></li>
+          <li><a href="#" class="dropdown-item">Item 3</a></li>
+        </ul>
+      </div>
+
+      <br /><br />
+
+      <!-- Navbar with Dropdown -->
+      <nav class="navbar navbar-expand-md bg-light">
+        <div class="container">
+          <a href="#" class="navbar-brand">Navbar</a>
+          <button
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            class="navbar-toggler"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="#" class="nav-link active">Home</a>
+              </li>
+              <li class="nav-item">
+                <a href="#about" class="nav-link">About</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link">Services</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link">Contact</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  href="#"
+                  class="nav-link dropdown-toggle"
+                  data-bs-toggle="dropdown"
+                  >Dropdown</a
+                >
+                <ul class="dropdown-menu">
+                  <li><a href="#" class="dropdown-item">Item 1</a></li>
+                  <li><a href="#" class="dropdown-item">Item 2</a></li>
+                  <li><a href="#" class="dropdown-item">Item 3</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

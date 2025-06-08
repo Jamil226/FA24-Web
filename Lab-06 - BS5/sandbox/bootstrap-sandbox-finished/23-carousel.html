@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <title>Bootstrap Sandbox | Carousel</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="mb-5">Carousel</h1>
+
+      <!-- Carousel -->
+      <div class="carousel slide" id="slider">
+        <!-- Indicators -->
+        <div class="carousel-indicators">
+          <button
+            class="active"
+            data-bs-slide-to="0"
+            data-bs-target="#slider"
+          ></button>
+          <button data-bs-slide-to="1" data-bs-target="#slider"></button>
+          <button data-bs-slide-to="2" data-bs-target="#slider"></button>
+        </div>
+
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img
+              src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152537062/settings_images/18b2741-a50-55da-37bc-c77252583e_modernjs.webp"
+              alt=""
+              class="d-block w-100"
+            />
+            <div
+              class="carousel-caption d-none d-md-block bg-secondary opacity-75"
+            >
+              <h5>Modern JS From The Beginning</h5>
+              <p>Lorem ipsum dolor sit amet.</p>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <img
+              src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152537062/settings_images/a6146c8-c550-e60d-83d-da0202f6bd7_258ea558-245b-4906-b8d6-3412e8d6f0a7.jpg"
+              alt=""
+              class="d-block w-100"
+            />
+            <div
+              class="carousel-caption d-none d-md-block bg-secondary opacity-75"
+            >
+              <h5>MERN Stack From Scratch</h5>
+              <p>Lorem ipsum dolor sit amet.</p>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <img
+              src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152537062/settings_images/825ccb4-0ffc-3c0f-8f8e-4f043c0027_2ce67a0-d43b-28cb-bc33-e0acb621bde_Tailwind_CSS_Course.webp"
+              alt=""
+              class="d-block w-100"
+            />
+            <div
+              class="carousel-caption d-none d-md-block bg-secondary opacity-75"
+            >
+              <h5>Tailwind From Scratch</h5>
+              <p>Lorem ipsum dolor sit amet.</p>
+            </div>
+          </div>
+        </div>
+        <!-- Buttons -->
+        <button
+          class="carousel-control-prev"
+          data-bs-slide="prev"
+          data-bs-target="#slider"
+        >
+          <span class="carousel-control-prev-icon"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          data-bs-slide="next"
+          data-bs-target="#slider"
+        >
+          <span class="carousel-control-next-icon"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+      <!-- Don't go past here -->
+    </div>
+    <div style="margin-top: 350px"></div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

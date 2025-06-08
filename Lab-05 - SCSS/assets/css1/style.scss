@@ -1,0 +1,36 @@
+$default-background-color: tomato;
+$default-text-color: white;
+$default-padding: 30px;
+$default-margin: 30px;
+
+h1 {
+  margin: $default-margin;
+  padding: $default-padding;
+  color: $default-text-color;
+  background-color: $default-background-color;
+}
+ul {
+  display: flex;
+  width: 100%;
+  background-color: #3f0f69;
+  justify-content: center;
+
+  li {
+    margin: 20px;
+    list-style: none;
+    a {
+      
+      color: white;
+      text-decoration: none;
+      font-family: poppins_regular;
+    }
+
+    a:hover {
+      
+      cursor: pointer;
+      color: #c1c1c1;
+      text-decoration: none;
+      font-family: poppins_regular;
+    }
+  }
+}

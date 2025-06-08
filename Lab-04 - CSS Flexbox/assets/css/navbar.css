@@ -1,0 +1,36 @@
+:root{
+    --primary-text-color:#ffffff;
+    --default-background-color:#3f0f69;
+    --default-text-hover-color: #c2c2c2;
+
+}
+@font-face {
+    font-family: poppins_regular;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: poppins_bold;
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+
+.nav{
+    display:flex;
+    width:100%;
+    background-color: var(--default-background-color);
+    justify-content: center;
+}
+.nav-item{
+    margin:20px;
+    list-style: none;
+}
+.nav-link{
+    color: var(--primary-text-color);
+    text-decoration: none;
+    font-family: poppins_regular;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color: var(--default-text-hover-color);
+    text-decoration: none;
+    font-family: poppins_regular;
+}

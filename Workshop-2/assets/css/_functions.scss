@@ -1,0 +1,4 @@
+@function btn-width($mainWidth, $multiplier){
+    @return $mainWidth * $multiplier + px;
+
+}
